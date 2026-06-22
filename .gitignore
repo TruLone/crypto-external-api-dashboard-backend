@@ -1,0 +1,19 @@
+# Python virtual environments
+env/
+venv/
+.env
+.venv/
+
+# Cache and compilation files
+__pycache__/
+*.pyc
+.pytest_cache/
+.gigacode/
+
+# Local database files
+*.db
+*.sqlite3
+
+# Local storage directories
+uploaded_files/
+storage/
